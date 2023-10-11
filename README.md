@@ -6,4 +6,4 @@
   <img align="center" src="https://github-readme-stats-andreaskrath.vercel.app/api/top-langs/?username=andreaskrath&layout=compact&theme=buefy&hide_border=true&bg_color=ffffff00&hide=html,makefile,tex" alt="andreaskrath's top languages"/>
 </a>
 
-**Note:** the top languages breakdown is based on my own repositories, not depending on who is the author of the code; this also means my contributions to repositories I do not own, are not a part of the statistic.
+**Note:** the top languages breakdown is based on my own repositories, not accounting for the author of the code; this also means my contributions to repositories I do not own, are not a part of the statistic.
